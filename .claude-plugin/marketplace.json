@@ -1,6 +1,6 @@
 {
   "name": "openviking",
-  "description": "OpenViking plugins for Claude Code.",
+  "description": "B\u00cbTR-maintained OpenViking plugin distribution, pinned to a reviewed revision.",
   "owner": {
     "name": "OpenViking"
   },
@@ -10,9 +10,9 @@
       "description": "Long-term semantic memory for Claude Code, powered by OpenViking",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/volcengine/OpenViking.git",
+        "url": "https://github.com/Jp121987/OpenViking.git",
         "path": "examples/claude-code-memory-plugin",
-        "ref": "main"
+        "ref": "118529344f21e8281114dbaad62b347b302c9f3a"
       },
       "category": "productivity"
     }
