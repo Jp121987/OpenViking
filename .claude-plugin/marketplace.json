@@ -12,7 +12,7 @@
         "source": "git-subdir",
         "url": "https://github.com/Jp121987/OpenViking.git",
         "path": "examples/claude-code-memory-plugin",
-        "ref": "118529344f21e8281114dbaad62b347b302c9f3a"
+        "sha": "118529344f21e8281114dbaad62b347b302c9f3a"
       },
       "category": "productivity"
     }
